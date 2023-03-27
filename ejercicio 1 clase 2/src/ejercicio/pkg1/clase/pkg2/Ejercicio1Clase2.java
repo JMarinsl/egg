@@ -22,6 +22,7 @@ public class Ejercicio1Clase2 {
         Scanner leer=new Scanner(System.in);
         int entero1;
         int entero2;
+        int entero3;
         int resultado;
         System.out.println("ingrese numero 1: ");
         entero1=leer.nextInt();
